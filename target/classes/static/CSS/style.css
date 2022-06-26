@@ -1,0 +1,12 @@
+h1.color-rojo{
+	color:red;
+}
+
+h2.color-azul{
+	color:#4caaff;
+}
+
+body {
+  background-image: url("/images/BlueCrystals.jpg");
+  font-family: Arial;
+}
